@@ -31,7 +31,7 @@ ans:The last command will, by default, take the system log file /var/log/wtmp as
 
 Task 1:
 ssh-keygen (in local server)
-ssh-rsa .....etc
+ssh-rsa ......etc
 copy and past this txt into the authorized key
 
 Task 3: scp sample.txt ubuntu@ec-ip:/home/ubuntu/intern-folder
